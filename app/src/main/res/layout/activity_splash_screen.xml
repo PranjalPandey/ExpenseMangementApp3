@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+     android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:background="@android:color/holo_blue_bright">
+
+    <ImageView
+            android:layout_width="244dp"
+            android:layout_height="194dp"
+            android:src="@mipmap/ic_launcher"
+            android:id="@+id/imageView3"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="171dp" />
+</RelativeLayout>

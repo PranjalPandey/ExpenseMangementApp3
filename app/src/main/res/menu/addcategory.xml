@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.expense.expensemangementapp.Categories">
+
+
+
+
+    <item
+        android:id="@+id/action_add_category"
+        android:title="Add Category"
+        android:orderInCategory="100"
+        android:icon="@drawable/add"
+        app:showAsAction="always" />
+
+
+</menu>
